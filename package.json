@@ -1,0 +1,25 @@
+{
+  "name": "kwm520-wit-ai",
+  "version": "1.0.0",
+  "description": "Getting in touch with WIT in perparation for a facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danjelous/kwm520-social-web-wit-ai.git"
+  },
+  "keywords": [
+    "WIT",
+    "Node"
+  ],
+  "author": "Daniel Brunner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danjelous/kwm520-social-web-wit-ai/issues"
+  },
+  "homepage": "https://github.com/danjelous/kwm520-social-web-wit-ai#readme"
+}
