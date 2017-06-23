@@ -6,5 +6,6 @@ const Client = new Wit({
 
 Client.message('Gruezi', {})
     .then((data) => {
-        let intent = data.entities.intent[0].value
+        let intent = data.entities.intent[0].value;
+        console.log(intent);
     });
